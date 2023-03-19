@@ -7,8 +7,8 @@
 ```json
 {
   "language": ["typescript", "Java", "C++"],
-  "frontend": ["react", "next"],
-  "backend": ["node"],
+  "frontend": ["Next,js", "React.js"],
+  "backend": ["Node.js"],
   "database": ["postgres", "mysql", "mongodb", "supabase"]
 }
 ```
