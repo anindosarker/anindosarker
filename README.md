@@ -1,8 +1,11 @@
-### Hi, Anindo here! 👋
+# Hi, Anindo here!  <img src="https://user-images.githubusercontent.com/29659719/231517456-ab464f29-f1a3-4059-a268-9316e5ed6e06.gif" height="50px">
+
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=anindo-sarker)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-000000?color=0b0b0b&labelColor=333333&logo=gmail&logoColor=f5f7fe)](mailto:sarkeranindo@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sarkeranindo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AnindoSarker)
-### Tech Stack
+
+
+## Tech Stack
 
 ```json
 {
