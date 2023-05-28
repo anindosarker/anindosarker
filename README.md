@@ -9,15 +9,15 @@
 
 ```json
 {
-  "language": ["typescript", "Java", "C++"],
-  "frontend": ["Next,js", "React.js"],
-  "backend": ["Node.js"],
+  "language": ["typescript", "JavaScript", "Java", "C++", "Python"],
+  "frontend": ["Next,js", "React.js", "React-Navite"],
+  "backend": ["Node.js", "Express.js"],
   "database": ["postgres", "mysql", "mongodb", "supabase"]
 }
 ```
 
 
-- 🔭 I’m currently working on: Bethik
+- 🔭 I’m currently working on: Bethik, Crafteur, ParkvBall
 - 🌱 I’m currently learning: TypeScript, Next.js, Supabase
 - 👯 I’m looking to collaborate on: Supabase, Next.js
 - 🤔 I’m looking for help with: Next.js
