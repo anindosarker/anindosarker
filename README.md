@@ -10,7 +10,7 @@
 ```json
 {
   "language": ["typescript", "JavaScript", "Java", "C++", "Python"],
-  "frontend": ["Next,js", "React.js", "React-Navite"],
+  "frontend": ["Next,js", "React.js", "React-Native"],
   "backend": ["Node.js", "Express.js"],
   "database": ["postgres", "mysql", "mongodb", "supabase"]
 }
