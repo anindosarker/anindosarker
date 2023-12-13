@@ -17,7 +17,7 @@
 ```
 
 
-- 🔭 I’m currently working on: Bethik, Crafteur, ParkvBall
+- 🔭 I’m currently working on: Allforu, Bethik
 - 🌱 I’m currently learning: TypeScript, Next.js, Supabase
 - 👯 I’m looking to collaborate on: Supabase, Next.js
 - 🤔 I’m looking for help with: Next.js
